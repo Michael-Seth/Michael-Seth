@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michael Osas</h1>
+<h1 align="center">Michael Osas</h1>
 <img src="https://res.cloudinary.com/dpvl31dut/image/upload/v1674206036/Github_Profile_banner_km6kk9.png" alt"Michael Osas Github Banner">
 <h3 align="center">A passionate frontend developer from Abuja Nigeria</h3>
 
