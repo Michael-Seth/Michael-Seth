@@ -1,5 +1,5 @@
-<img src="https://res.cloudinary.com/dpvl31dut/image/upload/v1674205581/Github_Profile_banner_jhaah5.png" alt"Michael Osas Github Banner">
 <h1 align="center">Hi 👋, I'm Michael Osas</h1>
+<img src="https://res.cloudinary.com/dpvl31dut/image/upload/v1674206036/Github_Profile_banner_km6kk9.png" alt"Michael Osas Github Banner">
 <h3 align="center">A passionate frontend developer from Abuja Nigeria</h3>
 
 <p align="left"> <a href="https://twitter.com/michaelosas78" target="blank"><img src="https://img.shields.io/twitter/follow/michaelosas78?logo=twitter&style=for-the-badge" alt="michaelosas78" /></a> </p>
