@@ -1,12 +1,12 @@
 <h1 align="center">Michael Osas</h1>
 <img src="https://res.cloudinary.com/dpvl31dut/image/upload/v1674206036/Github_Profile_banner_km6kk9.png" alt"Michael Osas Github Banner">
-<h3 align="center">A passionate frontend developer from Abuja Nigeria</h3>
+<h3 align="center">Enthusiastic software engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/michaelosas78" target="blank"><img src="https://img.shields.io/twitter/follow/michaelosas78?logo=twitter&style=for-the-badge" alt="michaelosas78" /></a> </p>
 
-- 🔭 I’m currently working on **Cysec Labs**
+- 🔭 I’m currently working on **Electricity Data Tracker**
 
-- 🌱 I’m currently learning **NodeJs for backend development, Data structure and Algorithm**
+- 🌱 I’m currently learning **Solidity & Web3 for blockchain development, NodeJs for backend development, Data structure and Algorithm**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/michael_osas](https://linktr.ee/michael_osas)
 
