@@ -4,19 +4,19 @@
 
 <p align="left"> <a href="https://twitter.com/michaelosas78" target="blank"><img src="https://img.shields.io/twitter/follow/michaelosas78?logo=twitter&style=for-the-badge" alt="michaelosas78" /></a> </p>
 
-- 🔭 I’m currently working on **Electricity Data Tracker**
+- 🌱 I’m currently buidling with **Solidity & Go & NodeJs for blockchain backend development, NextJs for frontend development, AWS Lambda for deployment**
 
-- 🌱 I’m currently learning **Solidity & Web3 for blockchain development, NodeJs for backend development, Data structure and Algorithm**
+- 👨‍💻 All of my projects are available at [https://michaelosas.vercel.app/](https://michaelosas.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/michael_osas](https://linktr.ee/michael_osas)
+- 👉🏽 Follow me on linkedin [https://www.linkedin.com/in/michael-osas/](https://www.linkedin.com/in/michael-osas/)
 
-- 📝 I regularly write articles on [https://linktr.ee/michael_osas](https://linktr.ee/michael_osas)
+- 📝 I write articles occasionally on [medium](https://medium.com/@michaelseth78)
 
-- 💬 Ask me about **React, JavaScript and NextJs**
+- 💬 Ask me about **Go, Kubernetes, React, TypeScript and Solidity**
 
-- 📫 How to reach me **https://linktr.ee/michael_osas**
+- 📫 How to reach me **[michaelosas78@gmail.com](michaelosas78@gmail.com)**
 
-- ⚡ Fun fact **I have an excellent social skill**
+- ⚡ My weakness **I am a perfectionist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,18 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-seth&show_icons=true&locale=en" alt="michael-seth" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michael-seth&" alt="michael-seth" /></p>
-
-<!--
-**Michael-Seth/Michael-Seth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
