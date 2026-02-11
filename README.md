@@ -4,19 +4,12 @@
 
 <p align="left"> <a href="https://twitter.com/michaelosas78" target="blank"><img src="https://img.shields.io/twitter/follow/michaelosas78?logo=twitter&style=for-the-badge" alt="michaelosas78" /></a> </p>
 
-- 🌱 I’m currently buidling with **Solidity & Go & NodeJs for blockchain backend development, NextJs for frontend development, AWS Lambda for deployment**
 
 - 👨‍💻 All of my projects are available at [https://michaelosas.vercel.app/](https://michaelosas.vercel.app/)
 
 - 👉🏽 Follow me on linkedin [https://www.linkedin.com/in/michael-osas/](https://www.linkedin.com/in/michael-osas/)
 
-- 📝 I write articles occasionally on [medium](https://medium.com/@michaelseth78)
-
-- 💬 Ask me about **Go, Kubernetes, React, TypeScript and Solidity**
-
-- 📫 How to reach me **[michaelosas78@gmail.com](michaelosas78@gmail.com)**
-
-- ⚡ My weakness **I am a perfectionist**
+- 💬 Ask me about **Go, Kubernetes, React, TypeScript and GCP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
