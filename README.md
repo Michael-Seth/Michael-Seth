@@ -9,8 +9,7 @@
 <a href="https://www.linkedin.com/in/michael-osas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://michaelosas.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f1115?style=for-the-badge&logo=vercel&logoColor=5EC4A0" alt="Portfolio" /></a>
 <a href="https://twitter.com/michaelosas78"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://instagram.com/_michael_osas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="mailto:michaelseth78@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
 
 </div>
 
