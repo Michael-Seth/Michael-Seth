@@ -18,11 +18,11 @@
 
 ## 👋 About me
 
-- 💼 Software Engineer at **Vega IT**, based in Abuja, Nigeria
+- 💼 Software Engineer at **Vega IT**
 - 🛠️ Building **React Boss** on nights and weekends
 - ☁️ AWS Security Fundamentals certified
 - ✍️ I write about engineering fundamentals on [LinkedIn](https://www.linkedin.com/in/michael-osas/)
-- 💬 Ask me about **TypeScript, React, Next.js, Node.js, Go and cloud**
+- 💬 Ask me about **TypeScript, React, Next.js, Nest.js, Node.js, Go and cloud**
 
 ## ⚡ Tech stack
 
